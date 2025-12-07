@@ -1,0 +1,12 @@
+# --- CSFT CERTSAFETY WHITLIST - VPN & BYPASS ---
+# --- VPNs Comerciais Gigantes (Top Tier) ---
+kaspersky.com
+kaspersky-labs.com
+kasperskylab.com
+kav-updates.com
+avp.ru
+gc.kis.v2.scr.kaspersky-labs.com
+
+# --- VPNs WIREGUARD (Top Tier) ---
+wireguard.com
+wireguard.io
